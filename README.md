@@ -13,7 +13,7 @@ Yechen Fan<sup>1,2</sup>, Jinhua Ye<sup>1,2†</sup>, Xianyou Ji<sup>1</sup>, Ch
 
 <sup>1</sup> Fuzhou University &nbsp;&nbsp; <sup>2</sup> Fujian Key Laboratory of Special Intelligent Equipment Safety Measurement and Control &nbsp;&nbsp; <sup>3</sup> Beihang University &nbsp;&nbsp; <sup>4</sup> South China University of Technology
 
-<sup>†</sup> Corresponding authors: Jinhua Ye and Gengfeng Zheng.
+<sup>†</sup> Corresponding authors
 
 </div>
 
